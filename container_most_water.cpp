@@ -12,8 +12,6 @@ Notice that you may not slant the container.
 #include <vector>
 using namespace std;
 
-// sliding window concept
-
 class Solution
 {
 public:
