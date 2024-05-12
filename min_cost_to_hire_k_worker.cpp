@@ -2,6 +2,8 @@
 Q857 Minimum Cost to Hire 7 Workers
 */
 
+// Not Optimised
+
 #include <bits/stdc++.h>
 using namespace std;
 
