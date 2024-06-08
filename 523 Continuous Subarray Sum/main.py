@@ -4,7 +4,7 @@ class Solution:
     # Optimise approach
     def check_subarray_sum(self, nums: List[int], k: int) -> bool:
         """
-            Time complexity
+            Time complexity -> O(N)
         """
         mod_map = {0: -1}
         running_sum = 0
