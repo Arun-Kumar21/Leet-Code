@@ -6,6 +6,7 @@ class Solution:
         for src, dist, cur_cost in zip(original, changed, cost):
             adj[src].append((dist, cur_cost))
 
+
         def dijkstra(src):
             heap = [(0, src)]
             min_cost_map = {}
