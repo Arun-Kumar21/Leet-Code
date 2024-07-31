@@ -31,16 +31,8 @@ The sum of the heights of the 3 shelves is 1 + 3 + 2 = 6.
 Notice that book number 2 does not have to be on the first shelf.
 ```
 
+
 Example 2:
-
-
-```
-Input: source = "aaaa", target = "bbbb", original = ["a","c"], changed = ["c","b"], cost = [1,2]
-Output: 12
-Explanation: To change the character 'a' to 'b' change the character 'a' to 'c' at a cost of 1, followed by changing the character 'c' to 'b' at a cost of 2, for a total cost of 1 + 2 = 3. To change all occurrences of 'a' to 'b', a total cost of 3 * 4 = 12 is incurred.
-```
-
-Example 3:
 
 ```
 Input: books = [[1,3],[2,4],[3,2]], shelfWidth = 6
