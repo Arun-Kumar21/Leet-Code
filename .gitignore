@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #IDE
 .idea
+=======
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+>>>>>>> dsa-branch
